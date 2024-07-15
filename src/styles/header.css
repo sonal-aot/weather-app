@@ -1,0 +1,22 @@
+.navBar {
+  max-width: 1560px;
+  padding: 16px 28px;
+  margin: auto;
+  background-color: #0aa28e;
+}
+
+.leftSide {
+  max-width: 400px;
+  display: flex;
+  gap: 8px;
+}
+.leftSide img {
+  width: 36px;
+}
+.leftSide h2 {
+  font-family: "Raleway";
+  font-size: 28px;
+  font-weight: 700;
+  margin: 0;
+  color: white;
+}/*# sourceMappingURL=header.css.map */

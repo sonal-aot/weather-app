@@ -1,0 +1,28 @@
+@import "variables";
+
+.navBar {
+    max-width: 1560px;
+    padding: 16px 28px;
+    // width: 100%;
+    margin: auto;
+    background-color: $secondray-color;
+    // box-shadow: 0 0 1px 3px  black;
+    }
+
+.leftSide {
+    max-width: 400px;
+    display: flex;
+    gap: 8px;
+
+    img {
+        width: 36px;
+    }
+
+    h2 {
+        font-family: $font;
+        font-size: 28px;
+        font-weight: 700;
+        margin: 0;
+        color: white;
+    }
+}
